@@ -1,0 +1,4 @@
+﻿  WHI_Compiler.cpp
+F:\Compiler\WHI_Compiler\WHI_Compiler.cpp(1469,10): warning C4101: “filename”: 未引用的局部变量
+F:\Compiler\WHI_Compiler\WHI_Compiler.cpp(1075): warning C4715: “ParsS”: 不是所有的控件路径都返回值
+  WHI_Compiler.vcxproj -> F:\Compiler\WHI_Compiler\Debug\WHI_Compiler.exe

@@ -1,0 +1,18 @@
+var head, foot, cock, rabbit, n;
+
+n := 0;
+read (head);
+read (foot);
+cock := 1;
+while (cock < head) + (cock = head) do
+  rabbit := head - cock;
+  if (cock * 2 + rabbit * 4) = foot then
+    write(cock);
+    write(rabbit);
+    n := n+1
+  else
+    skip
+  fi;
+  cock := cock + 1
+od;
+if n = 0 then write(0) else skip fi

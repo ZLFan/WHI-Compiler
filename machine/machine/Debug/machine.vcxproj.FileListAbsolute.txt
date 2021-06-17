@@ -1,0 +1,2 @@
+F:\Compiler\machine\machine\Debug\machine.exe
+F:\Compiler\machine\machine\Debug\machine.pdb

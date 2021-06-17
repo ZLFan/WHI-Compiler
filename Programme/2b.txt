@@ -1,0 +1,18 @@
+var x0, y0, x, y, g, m, temp;
+
+read(x);
+read(y);
+x0 := x; 
+y0 := y; 
+x := x-x/y*y;
+
+while ~(x = 0) do
+  temp := x;
+  x := y;
+  y := temp;
+  x := x-x/y*y
+od;
+g := y;
+m := x0*y0/g;
+write(g);
+write(m)

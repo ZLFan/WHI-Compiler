@@ -1,0 +1,22 @@
+var m, n, i, f;
+
+read(m);
+if (m < 1) + (m = 1)  then
+  f := 0
+else
+  f := 1;
+  if m = 2 then
+    skip
+  else
+    i := 2;
+    while i < m do
+      if (m - m/i*i) = 0 then
+        f := 0
+      else
+        skip
+      fi;
+      i := i+1
+    od
+  fi
+fi;
+write(f)

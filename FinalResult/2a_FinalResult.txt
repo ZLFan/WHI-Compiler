@@ -1,0 +1,56 @@
+int 5
+lit 0
+sto 0
+lit 0
+sto 1
+lit 0
+sto 2
+lit 0
+sto 3
+lit 0
+sto 4
+lit 45
+sto 0
+lit 27
+sto 1
+lod 0
+lod 0
+lod 1
+div
+lod 1
+mul
+sub
+sto 0
+lod 0
+lit 0
+equ
+lit 0
+equ
+jpc 44
+lod 0
+sto 4
+lod 1
+sto 0
+lod 4
+sto 1
+lod 0
+lod 0
+lod 1
+div
+lod 1
+mul
+sub
+sto 0
+jmp 23
+lod 1
+sto 2
+lit 45
+lit 27
+mul
+lod 2
+div
+sto 3
+lod 2
+wrt
+lod 3
+wrt

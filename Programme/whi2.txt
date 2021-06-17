@@ -1,0 +1,12 @@
+var score,grade;
+read(score);
+if score<20 then
+if score<10 then
+grade:=3
+else
+grade:=2
+fi
+else
+grade:=1
+fi;
+write(grade)

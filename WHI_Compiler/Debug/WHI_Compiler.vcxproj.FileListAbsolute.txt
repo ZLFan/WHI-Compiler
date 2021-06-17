@@ -1,0 +1,2 @@
+F:\Compiler\WHI_Compiler\Debug\WHI_Compiler.exe
+F:\Compiler\WHI_Compiler\Debug\WHI_Compiler.pdb
